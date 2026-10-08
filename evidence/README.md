@@ -1,0 +1,1 @@
+V1 đạt faithfulness 0.9523 và answer relevancy 0.9194, cao hơn V2 (0.8769 và 0.8918). Context recall của cả hai đều là 1.0 và context precision gần như bằng nhau, nên chất lượng retrieval tương đương; V1 có thể trả lời tập trung và bám context hơn nhờ phong cách ngắn gọn
